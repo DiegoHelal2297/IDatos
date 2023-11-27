@@ -1,0 +1,7 @@
+ebaysdk
+googletrans==4.0.0-rc1
+requests
+pandas
+python-decouple
+selenium
+psycopg2-binary
